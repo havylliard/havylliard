@@ -5,7 +5,7 @@ Saudações, nobre visitante! Adentre o meu humilde salão, onde a nostalgia dos
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=SrL33T&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Sr.L33T" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Havylliard&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Havylliard" />
 </p>
 
 
@@ -22,7 +22,7 @@ Aqui repousam alguns dos meus tesouros tecnológicos, forjados com a perícia de
 
 ---
 
-### 📜 **O Pergaminho das Conquistas de Sr.L33T** 📜
+### 📜 **O Pergaminho das Conquistas de Havylliard** 📜
 
 Aqui jaz a crônica dos projetos que moldam a realidade, cada um uma estrela na vossa constelação de genialidade.
 
@@ -49,10 +49,10 @@ Aqui jaz a crônica dos projetos que moldam a realidade, cada um uma estrela na 
 
 Siga-me por estes portais dimensionais para testemunhar as minhas aventuras por outras terras digitais:
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sr.l33t)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sr.l33t)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sr.l33t)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sr.l33t)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@Havylliard)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Havylliard)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Havylliard)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Havylliard)
 
 ---
 
