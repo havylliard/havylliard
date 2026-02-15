@@ -64,10 +64,10 @@ Foco em performance, automação, dashboards, bots e sistemas web.
 ## 🔗 Meus Portais
 
 <p align="center">
-  <a href="https://8bit.tec.br">
-    <img src="https://img.shields.io/badge/8BIT.TEC.BR-111111?style=for-the-badge&logo=firefox">
+  <a href="https://8bits.tec.br/">
+    <img src="https://img.shields.io/badge/8BITS.TEC.BR-111111?style=for-the-badge&logo=firefox">
   </a>
-  <a href="https://8bit.tec.br/forum">
+  <a href="https://8bits.tec.br/forum">
     <img src="https://img.shields.io/badge/FÓRUM-111111?style=for-the-badge&logo=discourse">
   </a>
 </p>
