@@ -42,13 +42,13 @@ Foco em performance, automação, dashboards, bots e sistemas web.
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
+| 8bits Sorteios | Sistema de Sorteios | https://8bits.tec.br/sorteios |
 | HeAVY | Ferramenta de limpeza de chunks do Hytale | https://github.com/havylliard/HeAVY |
 | 8bits PDV | Sistema de Ponto de Venda arcade | https://github.com/havylliard/8bits-pdv |
 | 8bits GDP | Gerenciador de Projetos | https://github.com/havylliard/8bits-gdp |
 | 8bits ADM | Painel administrativo | https://github.com/havylliard/8bits-adm |
-| Dashboard Cobranças | Controle financeiro | https://github.com/havylliard/8bits-dashboard-cobrancas |
 | Promotores163 Dashboard | Central de controle | https://github.com/havylliard/promotores163-dashboard |
-| Promotores163 Promotor | App de promotores | https://github.com/havylliard/promotores163-promotor |
+| Promotores163 Promotor | App de promotores | https://github.com/havylliard/pdv |
 | Shopping123 | E-commerce completo | https://github.com/havylliard/shopping123 |
 | Gartic Helper | Bot e helper Gartic | https://github.com/havylliard/gartic-helper |
 | My Game List | Lista de jogos | https://github.com/havylliard/my-game-list |
