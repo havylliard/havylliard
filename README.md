@@ -53,7 +53,7 @@ Foco em performance, automação, dashboards, bots e sistemas web.
 | Gartic Helper | Bot e helper Gartic | https://github.com/havylliard/gartic-helper |
 | My Game List | Lista de jogos | https://github.com/havylliard/my-game-list |
 | GLP Launcher | Gerador de launcher | https://github.com/havylliard/glp-launcher |
-| Chrome DevTools |  Para agentes de IA | https://github.com/havylliard/chrome-devtools-mcp |
+| Chrome DevTools (Fork)|  Para agentes de IA (PT-BR)| https://github.com/havylliard/chrome-devtools-mcp |
 | Gestor Condomínios | Sistema condominial | https://github.com/havylliard/gestor-condominios |
 | Gestor Depósito | Inventário | https://github.com/havylliard/gestor-deposito |
 | Gestor Academia | Sistema fitness | https://github.com/havylliard/gestor-academia |
