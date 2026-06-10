@@ -44,20 +44,12 @@ Foco em performance, automação, dashboards, bots e sistemas web.
 |---------|-----------|------|
 | 8bits Sorteios | Sistema de Sorteios | https://8bits.tec.br/sorteios |
 | HeAVY | Ferramenta de limpeza de chunks do Hytale | https://github.com/havylliard/HeAVY |
-| 8bits PDV | Sistema de Ponto de Venda arcade | https://github.com/havylliard/8bits-pdv |
+| DeepSeek Counter | Gerenciador de gasto de Toknes | https://github.com/havylliard/deepseek-counter |
+| Claude Counter BR | Gerenciador de gasto de Toknes | https://github.com/havylliard/claude-counter-PT-BR |
 | WEND | Gerenciador de Projetos Xampp | https://github.com/havylliard/wend |
-| 8bits ADM | Painel administrativo | https://github.com/havylliard/8bits-adm |
-| Promotores163 Dashboard | Central de controle | https://github.com/havylliard/promotores163-dashboard |
-| Promotores163 Promotor | App de promotores | https://github.com/havylliard/pdv |
-| Shopping123 | E-commerce completo | https://github.com/havylliard/shopping123 |
 | Gartic Helper | Bot e helper Gartic | https://github.com/havylliard/gartic-helper |
-| My Game List | Lista de jogos | https://github.com/havylliard/my-game-list |
-| GLP Launcher | Gerador de launcher | https://github.com/havylliard/glp-launcher |
 | Chrome DevTools (Fork)|  Para agentes de IA (PT-BR)| https://github.com/havylliard/chrome-devtools-mcp |
-| Gestor Condomínios | Sistema condominial | https://github.com/havylliard/gestor-condominios |
-| Gestor Depósito | Inventário | https://github.com/havylliard/gestor-deposito |
-| Gestor Academia | Sistema fitness | https://github.com/havylliard/gestor-academia |
-| API Integrator | Integrador de APIs | https://github.com/havylliard/api-integrator |
+
 
 ---
 
